@@ -28,6 +28,6 @@ Features
 
 ## Note
 
-    The contract's deposit and withdraw functions modify an internal balance variable but do not handle actual Ether transfers. This needs to be addressed for practical use.
-    The contract currently lacks individual account balance tracking and access control features.
-    This is for demonstration purposes only and should not be used outside of that scope
+    * The contract's deposit and withdraw functions modify an internal balance variable but do not handle actual Ether transfers. This needs to be addressed for practical use.
+    * The contract currently lacks individual account balance tracking and access control features.
+    * This is for demonstration purposes only and should not be used outside of that scope
